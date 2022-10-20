@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x88913dc1f12dc6021574125f37621ef414364e4e",
+  "SCAN_LINK": "https://etherscan.io/address/0x88913dc1f12dc6021574125f37621ef414364e4e",
+  "TWITTER_LINK": "https://twitter.com/",
+  "NETWORK": {
+    "NAME": "Etherscan",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "DUST",
+  "SYMBOL": "DUST",
+  "MAX_SUPPLY": 4999,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 130000,
+  "MARKETPLACE": "OPENSEA",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
