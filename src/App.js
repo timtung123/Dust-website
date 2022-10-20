@@ -575,9 +575,6 @@ function App() {
       <a href={CONFIG.SCAN_LINK}>
         <Styledicon alt={"ETHERSCAN"} src={"/config/images/etherscan.png"} />
       </a> 
-      <a href={CONFIG.TWITTER_LINK}>
-        <Styledicon alt={"TWITTER"} src={"/config/images/twitter.png"} />
-      </a> 
       </s.Container>
       <s.SpacerSmall />
         <s.TextDescription
