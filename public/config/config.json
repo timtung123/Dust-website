@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x88913dc1f12dc6021574125f37621ef414364e4e",
-  "SCAN_LINK": "https://etherscan.io/address/0x88913dc1f12dc6021574125f37621ef414364e4e",
+  "CONTRACT_ADDRESS": "0x53E3E58fbeCD9202aE77C10D750dd79A75f317ee",
+  "SCAN_LINK": "https://etherscan.io/address/0x53E3E58fbeCD9202aE77C10D750dd79A75f317ee",
   "TWITTER_LINK": "https://twitter.com/",
   "NETWORK": {
     "NAME": "Etherscan",
@@ -14,6 +14,6 @@
   "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 130000,
   "MARKETPLACE": "OPENSEA",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wearedust",
   "SHOW_BACKGROUND": true
 }
