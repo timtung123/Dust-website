@@ -159,7 +159,7 @@ function App() {
   const blockchain = useSelector((state) => state.blockchain);
   const data = useSelector((state) => state.data);
   const [claimingNft, setClaimingNft] = useState(false);
-  const [feedback, setFeedback] = useState(`Get 1 freemint NFT, than 0.005 per, Max 10 per txn);
+  const [feedback, setFeedback] = useState(`Get 1 freemint NFT, than 0.005 per, Max 10 per txn`);
   const [mintAmount, setmintAmount] = useState(1);
   const [freemint, setFreemint] = useState(false);
   const [CONFIG, SET_CONFIG] = useState({
